@@ -2,7 +2,7 @@
 #include <Wire.h>
 
 int ECGdata ;
-
+int led;
 float t ;
 double f = 250; //Hz - sampling frequency
 String inputString = "";         // a String to hold incoming data
