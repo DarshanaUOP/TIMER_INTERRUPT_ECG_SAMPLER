@@ -2,4 +2,4 @@
 
 ### DESCRIPTION
 
-Fermware for https://github.com/DarshanaUOP/ECG-UOP
+Farmware for https://github.com/DarshanaUOP/ECG-UOP
