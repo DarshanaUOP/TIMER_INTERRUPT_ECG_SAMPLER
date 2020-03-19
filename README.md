@@ -1,5 +1,5 @@
 # TIMER_INTERRUPT_ECG_SAMPLER
 
-###DESCRIPTION
+### DESCRIPTION
 
 Fermware for https://github.com/DarshanaUOP/ECG-UOP
